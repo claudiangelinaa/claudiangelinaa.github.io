@@ -1,0 +1,20 @@
+body{
+    min-height: 120px;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    background-color: rgb(253, 235, 239);
+}
+
+#about{
+    padding-top: 3rem;
+}
+#contact {
+    padding-top: 3rem;
+    background-color: rgb(253, 235, 239);
+    padding-bottom: 2rem;
+}
+html{
+    scroll-behavior: smooth;
+}
